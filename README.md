@@ -1,4 +1,11 @@
 # TpPython
+
+##########Coordonnées des étudiantes participantes: (Section A _ Groupe 2)###########
+***CHAOUNE Chahrazed 201400007187
+***ISSOLAH Louiza 201300005322
+***MAZARI Nour El Houda 201300005246
+***SELLAHI Imène 201400008068
+
 # -*- coding: utf-8 -*-
 import os
 import pickle
